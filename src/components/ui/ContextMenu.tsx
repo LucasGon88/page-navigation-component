@@ -49,7 +49,7 @@ export const ContextMenu: React.FC<ContextMenuProps> = ({
       <li>
       <button
         onClick={() => {}}
-        className="w-full py-2 text-left text-sm text-gray-700 hover:bg-gray-100 flex items-center gap-2 cursor-pointer"
+        className="w-full py-2 text-left text-sm text-gray-700 flex items-center gap-2 cursor-pointer"
       >
         <FlagIcon />
         Set as first page
@@ -59,7 +59,7 @@ export const ContextMenu: React.FC<ContextMenuProps> = ({
       <li>
       <button
         onClick={() => {}}
-        className="w-full py-2 text-left text-sm text-gray-700 hover:bg-gray-100 flex items-center gap-2 cursor-pointer"
+        className="w-full py-2 text-left text-sm text-gray-700 flex items-center gap-2 cursor-pointer"
       >
         <PencilIcon />
         Rename
@@ -68,7 +68,7 @@ export const ContextMenu: React.FC<ContextMenuProps> = ({
       <li>
       <button
         onClick={() => {}}
-        className="w-full py-2 text-left text-sm text-gray-700 hover:bg-gray-100 flex items-center gap-2 cursor-pointer"
+        className="w-full py-2 text-left text-sm text-gray-700 flex items-center gap-2 cursor-pointer"
       >
         <ClipboardIcon />
         Copy
@@ -77,7 +77,7 @@ export const ContextMenu: React.FC<ContextMenuProps> = ({
       <li>
       <button
         onClick={() => {}}
-        className="w-full py-2 text-left text-sm text-gray-700 hover:bg-gray-100 flex items-center gap-2 cursor-pointer"
+        className="w-full py-2 text-left text-sm text-gray-700 flex items-center gap-2 cursor-pointer"
       >
         <DuplicateIcon />
         Duplicate
@@ -90,7 +90,7 @@ export const ContextMenu: React.FC<ContextMenuProps> = ({
       <li>
       <button
         onClick={() => {}}
-        className="w-full pb-2 text-left text-sm text-red-600 hover:bg-red-50 flex items-center gap-2 cursor-pointer"
+        className="w-full pb-2 text-left text-sm text-red-600 flex items-center gap-2 cursor-pointer"
       >
         <TrashIcon /> 
         Delete
